@@ -850,8 +850,12 @@
       <feature connections="" id="node27" orientation="(-6.77073e-05,-162.837,180)" position="(-14.5446,-1.6157,-5.35378)" type="node" weight="1.0"/>
       <feature connections="" id="node28" orientation="(0.000311843,-147.373,-180)" position="(0.339334,-1.84507,3.38502)" type="node" weight="1.0"/>
       <feature connections="" id="node29" orientation="(0.00014447,-166.489,179.997)" position="(11.895,-1.63379,0.523181)" type="node" weight="1.0"/>
-      <feature connections="" id="node30" orientation="(7.52173e-05,-154.132,-180)" position="(6.00103,-1.70871,2.85477)" type="node" weight="1.0"/>
-      <feature connections="" id="node31" orientation="(180,-116.976,4.42504e-06)" position="(-8.67434,-5.21415,-8.43536)" type="node" weight="1.0"/>
+      <feature connections="CameraPoint03" id="node30" orientation="(7.52173e-05,-154.132,-180)" position="(6.00103,-1.70871,2.85477)" type="node" weight="1.0"/>
+      <feature connections="CameraPoint04" id="node31" orientation="(180,-116.976,4.42504e-06)" position="(-8.67434,-5.21415,-8.43536)" type="node" weight="1.0"/>
+      <feature connections="CameraPoint02|CameraPoint04" id="CameraPoint01" orientation="(137.758,44.4318,-147.556)" position="(-3.62827,-4.43436,6.79123)" rotateToPath="0" type="waypoint" weight="1.0"/>
+      <feature connections="CameraPoint03|CameraPoint01" id="CameraPoint02" orientation="(131.911,25.3713,-154.482)" position="(-1.35696,-3.17194,6.28663)" rotateToPath="0" type="waypoint" weight="1.0"/>
+      <feature connections="node30|CameraPoint02" id="CameraPoint03" orientation="(136.552,31.3354,-153.775)" position="(0.846166,-0.981749,5.43992)" rotateToPath="0" type="waypoint" weight="1.0"/>
+      <feature connections="node31|CameraPoint01" id="CameraPoint04" orientation="(29.602,10.6676,-6.00349)" position="(-8.65762,-5.01961,1.98597)" rotateToPath="0" type="waypoint" weight="1.0"/>
     </features>
   </panorama>
   <masternode>
