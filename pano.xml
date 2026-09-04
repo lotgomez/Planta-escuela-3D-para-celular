@@ -337,8 +337,8 @@
       <hotspot description="" id="Point07" pan="-145.639" skinid="ht_node" target="" tilt="-18.6308" title="7" url="{node7}"/>
       <hotspot description="" id="Point08" pan="-145.999" skinid="ht_node" target="" tilt="-14.1791" title="6" url="{node6}"/>
       <hotspot description="" id="Point09" pan="-145.783" skinid="ht_node" target="" tilt="-10.0611" title="5" url="{node5}"/>
-      <hotspot description="" id="Point10" pan="136.873" skinid="ht_node" target="" tilt="-2.8732" title="7" url="{node7}"/>
       <hotspot description="" id="Point11" pan="78.2737" skinid="ht_node" target="" tilt="-13.3703" title="2a" url="{node18}"/>
+      <hotspot description="" id="Point10" pan="136.705" skinid="ht_node" target="" tilt="-3.08499" title="7a" url="{node23}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
