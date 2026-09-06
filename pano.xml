@@ -8,7 +8,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:57" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-2.36655" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="Adentro" title="1">
-      <mapcoords mapid="FloorPlan02" x="0.233459" x_floorplan_percent="22.6064" y="-1.58752" y_floorplan_percent="77.5839"/>
+      <mapcoords mapid="FloorPlan02" x="0.205994" x_floorplan_percent="19.9468" y="-1.53534" y_floorplan_percent="75.0336"/>
     </userdata>
     <view fovmode="2" pannorth="-2.36655">
       <start fov="100" pan="-90.4531" projection="4" tilt="-10.7656"/>
@@ -22,6 +22,7 @@
       <hotspot description="" id="Point03" pan="-89.4608" skinid="ht_node" target="$fwd" tilt="-11.1202" title="4" url="{node4}"/>
       <hotspot description="" id="Point04" pan="-75.7964" skinid="ht_node" target="$fwd" tilt="-6.34655" title="12" url="{node12}"/>
       <hotspot description="" id="Point05" pan="-87.1787" skinid="ht_node" target="$fwd" tilt="-4.96227" title="11" url="{node11}"/>
+      <hotspot description="" id="Point06" pan="-19.9354" skinid="ht_node" target="-83.3105/0/126.58" tilt="-1.75208" title="14a" url="{node30}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -34,7 +35,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:25:18" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:25" description="" heading="-8.20224" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Adentro" title="2">
-      <mapcoords mapid="FloorPlan02" x="0.227966" x_floorplan_percent="22.0745" y="-1.45844" y_floorplan_percent="71.2752"/>
+      <mapcoords mapid="FloorPlan02" x="0.205994" x_floorplan_percent="19.9468" y="-1.45844" y_floorplan_percent="71.2752"/>
     </userdata>
     <view fovmode="2" pannorth="-8.20224">
       <start fov="100" pan="-130.489" projection="4" tilt="-7.43888"/>
@@ -102,6 +103,7 @@
       <hotspot description="" id="Point04" pan="129.856" skinid="ht_node" target="$fwd" tilt="-14.7976" title="12" url="{node12}"/>
       <hotspot description="" id="Point05" pan="102.911" skinid="ht_node" target="$fwd" tilt="-9.44079" title="11" url="{node11}"/>
       <hotspot description="" id="Point06" pan="-135.915" skinid="ht_node" target="$fwd" tilt="-1.22331" title="14a" url="{node30}"/>
+      <hotspot description="" id="Point07" pan="38.1299" skinid="ht_node" target="99.2026/0/100" tilt="-0.412686" title="5" url="{node5}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -114,7 +116,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:07" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="182.862" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Adentro" title="5">
-      <mapcoords mapid="FloorPlan02" x="0.502625" x_floorplan_percent="48.6702" y="-1.7276" y_floorplan_percent="84.4295"/>
+      <mapcoords mapid="FloorPlan02" x="0.502625" x_floorplan_percent="48.6702" y="-1.73035" y_floorplan_percent="84.5638"/>
     </userdata>
     <view fovmode="2" pannorth="182.862">
       <start fov="100" pan="7.04847" projection="4" tilt="-20.7931"/>
@@ -131,6 +133,7 @@
       <hotspot description="" id="Point06" pan="47.8139" skinid="ht_node" target="$fwd" tilt="-19.5516" title="8" url="{node8}"/>
       <hotspot description="" id="Point07" pan="89.3648" skinid="ht_node" target="$fwd" tilt="-19.2541" title="7" url="{node7}"/>
       <hotspot description="" id="Point08" pan="84.5386" skinid="ht_node" target="$fwd" tilt="-30.8718" title="6" url="{node6}"/>
+      <hotspot description="" id="Point09" pan="-147.253" skinid="ht_node" target="-147.926/0/124.85" tilt="1.22962" title="4" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -143,7 +146,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:27" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="180.838" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Adentro" title="6">
-      <mapcoords mapid="FloorPlan02" x="0.576782" x_floorplan_percent="55.8511" y="-1.71936" y_floorplan_percent="84.0268"/>
+      <mapcoords mapid="FloorPlan02" x="0.576782" x_floorplan_percent="55.8511" y="-1.73584" y_floorplan_percent="84.8322"/>
     </userdata>
     <view fovmode="2" pannorth="180.838">
       <start fov="100" pan="-4.50728" projection="4" tilt="-9.38437"/>
@@ -172,7 +175,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:27:42" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:27" description="" heading="177.781" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Adentro" title="7">
-      <mapcoords mapid="FloorPlan02" x="0.63446" x_floorplan_percent="61.4362" y="-1.71387" y_floorplan_percent="83.7584"/>
+      <mapcoords mapid="FloorPlan02" x="0.626221" x_floorplan_percent="60.6383" y="-1.73035" y_floorplan_percent="84.5638"/>
     </userdata>
     <view fovmode="2" pannorth="177.781">
       <start fov="100" pan="7.3144" projection="4" tilt="-26.7343"/>
@@ -212,6 +215,7 @@
       <hotspot description="" id="Point01" pan="132.44" skinid="ht_node" target="$fwd" tilt="-22.83" title="7" url="{node7}"/>
       <hotspot description="" id="Point02" pan="-168.83" skinid="ht_node" target="$fwd" tilt="-28.81" title="6" url="{node6}"/>
       <hotspot description="" id="Point03" pan="-142.74" skinid="ht_node" target="$fwd" tilt="-22.28" title="5" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="117.969" skinid="ht_node" target="165.853/0/100" tilt="0" title="9" url="{node9}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -224,7 +228,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:28:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:28" description="" heading="175.635" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Adentro" title="9">
-      <mapcoords mapid="FloorPlan02" x="0.703125" x_floorplan_percent="68.0851" y="-1.72211" y_floorplan_percent="84.1611"/>
+      <mapcoords mapid="FloorPlan02" x="0.692139" x_floorplan_percent="67.0213" y="-1.7276" y_floorplan_percent="84.4295"/>
     </userdata>
     <view fovmode="2" pannorth="175.635">
       <start fov="100" pan="-178.065" projection="4" tilt="-17.2904"/>
@@ -243,6 +247,7 @@
       <hotspot description="" id="Point08" pan="-92.91" skinid="ht_node" target="" tilt="-17.83" title="6" url="{node6}"/>
       <hotspot description="" id="Point09" pan="-92.6" skinid="ht_node" target="" tilt="-12.69" title="5" url="{node5}"/>
       <hotspot description="" id="Point10" pan="156.4" skinid="ht_node" target="" tilt="-0.79" title="3a" url="{node19}"/>
+      <hotspot description="" id="Point11" pan="-60.4475" skinid="ht_node" target="135.894/0/100" tilt="0" title="8" url="{node8}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -333,6 +338,7 @@
       <hotspot description="" id="Point05" pan="85.7616" skinid="ht_node" target="" tilt="-9.01562" title="2" url="{node2}"/>
       <hotspot description="" id="Point06" pan="103.69" skinid="ht_node" target="" tilt="-9.10828" title="1" url="{node1}"/>
       <hotspot description="" id="Point07" pan="-135.545" skinid="ht_node" target="" tilt="-5.42923" title="1a" url="{node17}"/>
+      <hotspot description="" id="Point08" pan="-99.4525" skinid="ht_node" target="-125.11/0/126.58" tilt="2.09808" title="13" url="{node13}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -345,7 +351,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:51:56" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:51" description="" heading="120.978" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Adentro" title="13">
-      <mapcoords mapid="FloorPlan02" x="0.796509" x_floorplan_percent="77.1277" y="-1.47217" y_floorplan_percent="71.9463"/>
+      <mapcoords mapid="FloorPlan02" x="0.799255" x_floorplan_percent="77.3936" y="-1.73035" y_floorplan_percent="84.5638"/>
     </userdata>
     <view fovmode="2" pannorth="120.978">
       <start fov="126.58" pan="-4.8432" projection="4" tilt="-15.2854"/>
@@ -433,7 +439,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:24:35" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:24" description="" heading="-0.110162" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="Adentro" title="16">
-      <mapcoords mapid="FloorPlan02" x="0.406494" x_floorplan_percent="39.3617" y="-1.72485" y_floorplan_percent="84.2953"/>
+      <mapcoords mapid="FloorPlan02" x="0.406494" x_floorplan_percent="39.3617" y="-1.73035" y_floorplan_percent="84.5638"/>
     </userdata>
     <view fovmode="2" pannorth="-0.110162">
       <start fov="100" pan="-21.5718" projection="4" tilt="-3.9203"/>
@@ -451,6 +457,7 @@
       <hotspot description="" id="Point07" pan="-95.0894" skinid="ht_node" target="" tilt="-19.789" title="6" url="{node6}"/>
       <hotspot description="" id="Point08" pan="-96.8135" skinid="ht_node" target="" tilt="-28.8781" title="5" url="{node5}"/>
       <hotspot description="" id="Point09" pan="-12.5878" skinid="ht_node" target="" tilt="-11.1602" title="3" url="{node3}"/>
+      <hotspot description="" id="Point10" pan="-93.1002" skinid="ht_node" target="179.357/0/100" tilt="-0.933209" title="1a" url="{node17}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -463,7 +470,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:29:54" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:29" description="" heading="180.538" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Afuera" title="1a">
-      <mapcoords mapid="FloorPlan02" x="0.936584" x_floorplan_percent="90.6915" y="-1.75232" y_floorplan_percent="85.6376"/>
+      <mapcoords mapid="FloorPlan02" x="0.922852" x_floorplan_percent="89.3617" y="-1.76056" y_floorplan_percent="86.0403"/>
     </userdata>
     <view fovmode="2" pannorth="180.538">
       <start fov="100" pan="-95.7604" projection="4" tilt="-32.8451"/>
@@ -474,6 +481,7 @@
     <hotspots>
       <hotspot description="" id="Point01" pan="-178.99" skinid="ht_node" target="$fwd" tilt="-12.26" title="2a" url="{node18}"/>
       <hotspot description="" id="Point02" pan="178.33" skinid="ht_node" target="" tilt="0.05" title="3a" url="{node19}"/>
+      <hotspot description="" id="Point03" pan="-92.428" skinid="ht_node" target="93.0697/0/100" tilt="0" title="16" url="{node16}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -486,7 +494,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:10" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="184.234" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Afuera" title="2a">
-      <mapcoords mapid="FloorPlan02" x="0.942078" x_floorplan_percent="91.2234" y="-1.4859" y_floorplan_percent="72.6174"/>
+      <mapcoords mapid="FloorPlan02" x="0.920105" x_floorplan_percent="89.0957" y="-1.51611" y_floorplan_percent="74.094"/>
     </userdata>
     <view fovmode="2" pannorth="184.234">
       <start fov="100" pan="-96.5699" projection="4" tilt="-20.0508"/>
@@ -510,7 +518,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:30:48" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:30" description="" heading="81.855" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Afuera" title="3a">
-      <mapcoords mapid="FloorPlan02" x="0.922852" x_floorplan_percent="89.3617" y="-1.07941" y_floorplan_percent="52.7517"/>
+      <mapcoords mapid="FloorPlan02" x="0.892639" x_floorplan_percent="86.4362" y="-1.07666" y_floorplan_percent="52.6174"/>
     </userdata>
     <view fovmode="2" pannorth="81.855">
       <start fov="135.055" pan="13.1323" projection="4" tilt="-2.64217"/>
@@ -525,6 +533,7 @@
       <polyhotspot description="" id="Poly02" target="" title="7a" url="{node23}">
         <polystring>164.83/1.97|165.27/-15.14|150.75/-14.8|150.81/1.71</polystring>
       </polyhotspot>
+      <hotspot description="" id="Point01" pan="165.582" skinid="ht_node" target="1.90865/0/100" tilt="0" title="4a" url="{node20}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -537,7 +546,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:25" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-0.528" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Afuera" title="4a">
-      <mapcoords mapid="FloorPlan02" x="0.148315" x_floorplan_percent="14.3617" y="-0.994263" y_floorplan_percent="48.5906"/>
+      <mapcoords mapid="FloorPlan02" x="0.134583" x_floorplan_percent="13.0319" y="-0.994263" y_floorplan_percent="48.5906"/>
     </userdata>
     <view fovmode="2" pannorth="-0.528">
       <start fov="100" pan="10.0247" projection="4" tilt="-6.38822"/>
@@ -552,6 +561,8 @@
       <hotspot description="" id="Point04" pan="-71.6862" skinid="ht_node" target="" tilt="-4.28935" title="10a" url="{node26}"/>
       <hotspot description="" id="Point05" pan="-76.2382" skinid="ht_node" target="" tilt="-3.0056" title="11a" url="{node27}"/>
       <hotspot description="" id="Point06" pan="-72.5847" skinid="ht_node" target="" tilt="10.7655" title="Arriba" url="{node31}"/>
+      <hotspot description="" id="Point07" pan="-96.8861" skinid="ht_node" target="-95.4371/0/135.055" tilt="-1.00375" title="3a" url="{node19}"/>
+      <hotspot description="" id="Point08" pan="1.91224" skinid="ht_node" target="-89.7278/0/100" tilt="-3.81031" title="5a" url="{node21}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -564,7 +575,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:31:45" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:31" description="" heading="-1.06" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Afuera" title="5a">
-      <mapcoords mapid="FloorPlan02" x="0.137329" x_floorplan_percent="13.2979" y="-0.736084" y_floorplan_percent="35.9732"/>
+      <mapcoords mapid="FloorPlan02" x="0.107117" x_floorplan_percent="10.3723" y="-0.766296" y_floorplan_percent="37.4497"/>
     </userdata>
     <view fovmode="2" pannorth="-1.06">
       <start fov="100" pan="-85.2895" projection="4" tilt="0.112872"/>
@@ -578,6 +589,7 @@
       <hotspot description="" id="Point03" pan="-97.2437" skinid="ht_node" target="" tilt="-3.78744" title="10a" url="{node26}"/>
       <hotspot description="" id="Point04" pan="-96.3182" skinid="ht_node" target="" tilt="-2.28043" title="11a" url="{node27}"/>
       <hotspot description="" id="Point05" pan="-97.6601" skinid="ht_node" target="" tilt="11.2379" title="Arriba" url="{node31}"/>
+      <hotspot description="" id="Point06" pan="-178.622" skinid="ht_node" target="-96.8013/0/100" tilt="2.1822" title="4a" url="{node20}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -590,7 +602,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:01" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="89.647" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Afuera" title="6a">
-      <mapcoords mapid="FloorPlan02" x="0.255432" x_floorplan_percent="24.734" y="-0.733337" y_floorplan_percent="35.8389"/>
+      <mapcoords mapid="FloorPlan02" x="0.258179" x_floorplan_percent="25" y="-0.766296" y_floorplan_percent="37.4497"/>
     </userdata>
     <view fovmode="2" pannorth="89.647">
       <start fov="100" pan="-23.307" projection="4" tilt="-2.43662"/>
@@ -636,6 +648,7 @@
       <hotspot description="" id="Point06" pan="126.367" skinid="ht_node" target="" tilt="-7.00117" title="12a" url="{node28}"/>
       <hotspot description="" id="Point07" pan="99.3233" skinid="ht_node" target="" tilt="-7.19267" title="14a" url="{node30}"/>
       <hotspot description="" id="Point08" pan="-162.828" skinid="ht_node" target="" tilt="13.703" title="Arriba" url="{node31}"/>
+      <hotspot description="" id="Point09" pan="-165.757" skinid="ht_node" target="96.3075/0/100" tilt="1.92536" title="8a" url="{node24}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -648,7 +661,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="-39.067" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Afuera" title="8a">
-      <mapcoords mapid="FloorPlan02" x="0.716858" x_floorplan_percent="69.4149" y="-0.862427" y_floorplan_percent="42.1477"/>
+      <mapcoords mapid="FloorPlan02" x="0.0384521" x_floorplan_percent="3.7234" y="-0.922852" y_floorplan_percent="45.1007"/>
     </userdata>
     <view fovmode="2" pannorth="-39.067">
       <start fov="100" pan="18.5813" projection="4" tilt="-4.39557"/>
@@ -675,7 +688,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:32:53" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:32" description="" heading="106.458" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node25" source="" tags="Afuera" title="9a">
-      <mapcoords mapid="FloorPlan02" x="0.508118" x_floorplan_percent="49.2021" y="-1.07391" y_floorplan_percent="52.4832"/>
+      <mapcoords mapid="FloorPlan02" x="0.502625" x_floorplan_percent="48.6702" y="-0.999756" y_floorplan_percent="48.8591"/>
     </userdata>
     <view fovmode="2" pannorth="106.458">
       <start fov="100" pan="-86.3363" projection="4" tilt="3.28085"/>
@@ -708,7 +721,9 @@
       <level height="744" predecode="1" preload="1" width="744"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="97.762" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Afuera" title="10a"/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:14" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="97.762" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Afuera" title="10a">
+      <mapcoords mapid="FloorPlan02" x="0.697632" x_floorplan_percent="67.5532" y="-0.856934" y_floorplan_percent="41.8792"/>
+    </userdata>
     <view fovmode="2" pannorth="97.762">
       <start fov="100" pan="1.37879" projection="4" tilt="0.203565"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -750,6 +765,8 @@
       <hotspot description="" id="Point03" pan="-82.34" skinid="ht_node" target="" tilt="-4.34" title="7a" url="{node23}"/>
       <hotspot description="" id="Point04" pan="-84.99" skinid="ht_node" target="" tilt="-2.4" title="8a" url="{node24}"/>
       <hotspot description="" id="Point05" pan="-90.19" skinid="ht_node" target="" tilt="-11.84" title="10a" url="{node26}"/>
+      <hotspot description="" id="Point06" pan="-65.6188" skinid="ht_node" target="61.8325/0/100" tilt="0" title="9a" url="{node25}"/>
+      <hotspot description="" id="Point07" pan="-46.1055" skinid="ht_node" target="-67.6187/0/100" tilt="0" title="12a" url="{node28}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -762,7 +779,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:33:59" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:33" description="" heading="198.353" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node28" source="" tags="Afuera" title="12a">
-      <mapcoords mapid="FloorPlan02" x="0.477905" x_floorplan_percent="46.2766" y="-1.34033" y_floorplan_percent="65.5034"/>
+      <mapcoords mapid="FloorPlan02" x="0.516357" x_floorplan_percent="50" y="-1.3623" y_floorplan_percent="66.5772"/>
     </userdata>
     <view fovmode="2" pannorth="198.353">
       <start fov="100" pan="-60.2997" projection="4" tilt="2.32973"/>
@@ -783,6 +800,7 @@
       <hotspot description="" id="Point10" pan="122.809" skinid="ht_node" target="" tilt="0.214958" title="3a" url="{node19}"/>
       <hotspot description="" id="Point11" pan="88.6669" skinid="ht_node" target="" tilt="-5.10442" title="2a" url="{node18}"/>
       <hotspot description="" id="Point12" pan="-50.1893" skinid="ht_node" target="" tilt="-2.87516" title="3" url="{node3}"/>
+      <hotspot description="" id="Point13" pan="158.744" skinid="ht_node" target="-65.6188/0/100" tilt="5.03207" title="11a" url="{node27}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -818,7 +836,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-08-31T17:34:34" comment="" copyright="" customnodeid="" datetime="31/8/2026 17:34" description="" heading="187.424" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node30" source="" tags="Afuera" title="14a">
-      <mapcoords mapid="FloorPlan02" x="0.302124" x_floorplan_percent="29.2553" y="-1.37054" y_floorplan_percent="66.9799"/>
+      <mapcoords mapid="FloorPlan02" x="0.299377" x_floorplan_percent="28.9894" y="-1.3623" y_floorplan_percent="66.5772"/>
     </userdata>
     <view fovmode="2" pannorth="187.424">
       <start fov="126.58" pan="23.2414" projection="4" tilt="-9.52004"/>
@@ -832,6 +850,7 @@
       <hotspot description="" id="Point03" pan="106.935" skinid="ht_node" target="" tilt="-12.8099" title="12a" url="{node28}"/>
       <hotspot description="" id="Point04" pan="-80.6976" skinid="ht_node" target="" tilt="-13.7772" title="13a" url="{node29}"/>
       <hotspot description="" id="Point05" pan="151.027" skinid="ht_node" target="" tilt="8.91704" title="Arriba" url="{node31}"/>
+      <hotspot description="" id="Point06" pan="-10.1328" skinid="ht_node" target="0.0700973/0/100" tilt="0.125682" title="1" url="{node1}"/>
       <polyhotspot description="" id="Poly01" target="" title="3" url="{node3}">
         <polystring>45.1275/30.1578|43.2335/-38.3113|-21.5591/-42.6253|-20.5962/34.7401</polystring>
       </polyhotspot>
