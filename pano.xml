@@ -527,13 +527,13 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
+      <hotspot description="" id="Point01" pan="165.582" skinid="ht_node" target="1.90865/0/100" tilt="0" title="4a" url="{node20}"/>
       <polyhotspot description="" id="Poly01" target="" title="2a" url="{node18}">
         <polystring>-65.98/15.15|-72.61/15.82|-71.62/-29.63|-64.69/-29</polystring>
       </polyhotspot>
       <polyhotspot description="" id="Poly02" target="" title="7a" url="{node23}">
         <polystring>164.83/1.97|165.27/-15.14|150.75/-14.8|150.81/1.71</polystring>
       </polyhotspot>
-      <hotspot description="" id="Point01" pan="165.582" skinid="ht_node" target="1.90865/0/100" tilt="0" title="4a" url="{node20}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -938,7 +938,7 @@
     </features>
   </panorama>
   <masternode>
-    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{099b7956-a945-462c-b093-06420ff6240b}"/>
+    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{17e7fc61-a29a-416e-976b-c6b94683f0ea}"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="model" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
