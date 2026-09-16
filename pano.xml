@@ -938,9 +938,10 @@
     </features>
   </panorama>
   <masternode>
-    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{17e7fc61-a29a-416e-976b-c6b94683f0ea}"/>
+    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{8e04c31f-399f-4384-97ae-4fd0d240b9ed}"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="model" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <vr defaulthsscale="100" handtracking="3" skinbuttonposition="0" toggleskinbutton="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
