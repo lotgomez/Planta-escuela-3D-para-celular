@@ -887,61 +887,10 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node32">
-    <model bgcolor="0x808080" center="(0.0000000000000000,0.0000000000000000,0.0000000000000000)" file="models/node32.sog" flightcamspeed="6" loadonstart="0" materials="0" orientation="(0,0,180)" position="(0.0000000000000000,0.0000000000000000,0.0000000000000000)" revealspeed="1.00" revealtype="0" scale="0.20000000000000001" type="splat" unitsperm="1" useintransitions="1"/>
-    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node32" source="" tags="" title=""/>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" mode="orbit" pan="0" position="(0.0000000000000000,0.0000000000000000,0.0000000000000000)" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
-    </view>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-    <features>
-      <feature connections="" id="node32" orientation="(0,0,0)" position="(0,0,0)" type="node" weight="1.0"/>
-      <feature connections="" id="node1" orientation="(180,165.586,-0.000297961)" position="(11.046,-1.28161,7.87949)" type="node" weight="1.0"/>
-      <feature connections="" id="node2" orientation="(180,167.729,1.4086e-05)" position="(10.055,-1.56623,4.74182)" type="node" weight="1.0"/>
-      <feature connections="" id="node3" orientation="(180,153.402,6.90828e-05)" position="(5.20688,-1.70711,6.26774)" type="node" weight="1.0"/>
-      <feature connections="" id="node4" orientation="(-0.0023308,-157.435,-179.999)" position="(4.20572,-1.40461,9.29371)" type="node" weight="1.0"/>
-      <feature connections="" id="node5" orientation="(-0.000195664,-157.047,-180)" position="(6.49288,-1.30596,12.6099)" type="node" weight="1.0"/>
-      <feature connections="" id="node6" orientation="(-0.000321,-161.811,-180)" position="(4.44061,-1.37713,13.5309)" type="node" weight="1.0"/>
-      <feature connections="" id="node7" orientation="(0.00372997,-172.326,-179.998)" position="(0.204869,-1.4975,14.4296)" type="node" weight="1.0"/>
-      <feature connections="" id="node8" orientation="(-0.000349997,-167.972,180)" position="(5.51456,-1.53938,17.4858)" type="node" weight="1.0"/>
-      <feature connections="" id="node9" orientation="(-0.0157576,-167.572,179.98)" position="(-1.36669,-0.834099,15.9357)" type="node" weight="1.0"/>
-      <feature connections="" id="node10" orientation="(-179.911,-98.7776,0.0977405)" position="(-2.92746,-1.49432,13.3332)" type="node" weight="1.0"/>
-      <feature connections="" id="node11" orientation="(179.942,97.6093,0.055846)" position="(-4.68054,-1.47029,11.2263)" type="node" weight="1.0"/>
-      <feature connections="" id="node12" orientation="(-180,164.81,-8.01397e-06)" position="(-0.570044,-1.73334,7.8639)" type="node" weight="1.0"/>
-      <feature connections="" id="node13" orientation="(0.0010334,134.256,179.992)" position="(-4.37258,-1.24061,15.9411)" type="node" weight="1.0"/>
-      <feature connections="" id="node14" orientation="(180,165.048,9.29809e-05)" position="(11.3683,-1.5408,10.8055)" type="node" weight="1.0"/>
-      <feature connections="" id="node15" orientation="(180,163.256,-0.000866086)" position="(9.98395,-1.30044,11.5939)" type="node" weight="1.0"/>
-      <feature connections="" id="node16" orientation="(180,162.633,-0.00124357)" position="(8.62651,-1.41441,11.9198)" type="node" weight="1.0"/>
-      <feature connections="" id="node17" orientation="(5.12616e-06,-161.929,-180)" position="(-6.73197,-1.54685,17.378)" type="node" weight="1.0"/>
-      <feature connections="" id="node18" orientation="(-1.25219e-06,-161.4,180)" position="(-8.14466,-1.72136,11.5243)" type="node" weight="1.0"/>
-      <feature connections="" id="node19" orientation="(0.000127541,108.44,180)" position="(-11.3242,-2.09554,2.03246)" type="node" weight="1.0"/>
-      <feature connections="" id="node20" orientation="(180,160.573,2.44732e-06)" position="(7.68753,-1.64252,-7.69278)" type="node" weight="1.0"/>
-      <feature connections="" id="node21" orientation="(180,162.89,-6.96531e-05)" position="(6.05638,-1.69879,-13.9462)" type="node" weight="1.0"/>
-      <feature connections="" id="node22" orientation="(0.000291499,108.652,180)" position="(2.62002,-1.76404,-12.7334)" type="node" weight="1.0"/>
-      <feature connections="" id="node23" orientation="(-180,-109.728,0.000267533)" position="(3.88808,-1.67659,-8.06752)" type="node" weight="1.0"/>
-      <feature connections="" id="node24" orientation="(-180,-157.117,-8.22965e-06)" position="(9.3688,-1.67578,-10.47)" type="node" weight="1.0"/>
-      <feature connections="" id="node25" orientation="(-1.23675e-05,125.168,-180)" position="(-1.76376,-1.7154,-5.61366)" type="node" weight="1.0"/>
-      <feature connections="" id="node26" orientation="(-4.9942e-07,110.136,180)" position="(-8.05176,-1.45129,-8.42074)" type="node" weight="1.0"/>
-      <feature connections="" id="node27" orientation="(-6.77073e-05,-162.837,180)" position="(-14.5446,-1.6157,-5.35378)" type="node" weight="1.0"/>
-      <feature connections="" id="node28" orientation="(0.000311843,-147.373,-180)" position="(0.339334,-1.84507,3.38502)" type="node" weight="1.0"/>
-      <feature connections="" id="node29" orientation="(0.00014447,-166.489,179.997)" position="(11.895,-1.63379,0.523181)" type="node" weight="1.0"/>
-      <feature connections="CameraPoint03" id="node30" orientation="(7.52173e-05,-154.132,-180)" position="(6.00103,-1.70871,2.85477)" type="node" weight="1.0"/>
-      <feature connections="CameraPoint04" id="node31" orientation="(180,-116.976,4.42504e-06)" position="(-8.67434,-5.21415,-8.43536)" type="node" weight="1.0"/>
-      <feature connections="CameraPoint02|CameraPoint04" id="CameraPoint01" orientation="(137.758,44.4318,-147.556)" position="(-3.62827,-4.43436,6.79123)" rotateToPath="0" type="waypoint" weight="1.0"/>
-      <feature connections="CameraPoint03|CameraPoint01" id="CameraPoint02" orientation="(131.911,25.3713,-154.482)" position="(-1.35696,-3.17194,6.28663)" rotateToPath="0" type="waypoint" weight="1.0"/>
-      <feature connections="node30|CameraPoint02" id="CameraPoint03" orientation="(136.552,31.3354,-153.775)" position="(0.846166,-0.981749,5.43992)" rotateToPath="0" type="waypoint" weight="1.0"/>
-      <feature connections="node31|CameraPoint01" id="CameraPoint04" orientation="(29.602,10.6676,-6.00349)" position="(-8.65762,-5.01961,1.98597)" rotateToPath="0" type="waypoint" weight="1.0"/>
-    </features>
-  </panorama>
   <masternode>
-    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{8e04c31f-399f-4384-97ae-4fd0d240b9ed}"/>
+    <userdata author="Lot Gomez" comment="" copyright="" description="" tags="" title="" uuid="{d850c219-faa8-422f-ad7e-03e61c78a84b}"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="model" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
-    <vr defaulthsscale="100" handtracking="3" skinbuttonposition="0" toggleskinbutton="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
